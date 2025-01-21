@@ -10,6 +10,6 @@ Portfolio of completed projects I worked on while attending the BI Analyst Progr
 | 5 | [SuperStore](https://github.com/Kin175/Data-Projects-TripleTen/tree/main/SuperStore) | DESCRIPTION HERE. |
 | 6 | [SuperStore Returns](https://github.com/Kin175/Data-Projects-TripleTen/tree/main/SuperStore%20Returns) | DESCRIPTION HERE. |
 | 7 | [Shopify](https://github.com/Kin175/Data-Projects-TripleTen/tree/main/Shopify) | DESCRIPTION HERE. |
-| 8 | [Zomato](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 8 | [Zomato](https://github.com/Kin175/Data-Projects-TripleTen/tree/main/Zomato) | DESCRIPTION HERE. |
 | 9 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 10| [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
