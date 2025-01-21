@@ -4,7 +4,7 @@ Portfolio of completed projects I worked on while attending the BI Analyst Progr
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | [Fresh Beats](https://github.com/Kin175/Data-Projects-TripleTen/tree/main/Fresh%20Beats) | DESCRIPTION HERE. |
-| 2 | [Air-BNB](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 2 | [Air-BNB](https://github.com/Kin175/Data-Projects-TripleTen/tree/main/Air-BNB) | DESCRIPTION HERE. |
 | 3 | [Zuber](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 4 | [Business Analysis](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 5 | [SuperStore](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
