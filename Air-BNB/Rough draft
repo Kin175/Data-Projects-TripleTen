@@ -1,0 +1,39 @@
+- [ ] **An introduction with an overview of the project's objective and goals.**
+
+    This project analyzes Airbnb data to guide investment decisions in the Manhattan vacation rental market. The primary objectives are to identify the most attractive neighborhoods and property sizes for vacation rentals, estimate their revenue potential, and provide data-driven recommendations to the client.
+
+- [ ] **The main body where it's explained what was done and how.**
+
+    The analysis involved data cleaning, pivot table creation, and calculations to answer key questions:
+        * **Most Attractive Neighborhoods:** Cleaned neighborhood data, analyzed review counts in the last 12 months, and identified the top 10 most attractive neighborhoods. 
+            * **[Screenshot: Top 10 Neighborhoods Pivot Table]**
+        * **Most Popular Property Sizes:** Cleaned bedroom data, analyzed rental frequency across different property sizes, and determined the most popular size in each neighborhood. 
+            * **[Screenshot: Bedrooms Pivot Table]**
+        * **Revenue Potential:** Identified top-performing listings based on neighborhood and property size, calculated daily and annual revenue, and ranked listings by their estimated annual income. 
+            * **[Screenshot: Annual Revenue Pivot Table]**
+        * **Occupancy Rate:** Analyzed average occupancy rates across different neighborhoods and property types.
+            * **[Screenshot: Average Occupancy Rate Pivot Table]**
+        * **Demand Patterns:** Identified the most popular rental days of the week.
+            * **[Screenshot: Most Popular Days Pivot Table Bar Chart]**
+
+- [ ] **It has pictures, GIFs, or screenshots that detail the project features.**
+
+    Included screenshots of key pivot tables and charts:
+        * Top 10 Neighborhoods Pivot Table
+        * Bedrooms Pivot Table
+        * Annual Revenue Pivot Table
+        * Average Occupancy Rate Pivot Table
+        * Most Popular Days Pivot Table Bar Chart 
+        * Assumptions/Change Log 
+
+- [ ] **A conclusion with the results of the project.**
+
+    The analysis revealed the top 10 most attractive neighborhoods for vacation rentals in Manhattan, along with the most popular property sizes within each. It also estimated the potential annual revenue for top-performing listings in these neighborhoods and identified key demand patterns, such as the most popular rental days of the week. 
+
+- [ ] **Ideas for further improvement or business outcomes (suggestions for the company).**
+
+    * **Seasonality Analysis:** Analyze rental demand and pricing trends across different seasons to optimize pricing strategies.
+    * **Competitive Analysis:** Compare Airbnb data with data from other platforms (e.g., VRBO) to understand market share and competitive advantages.
+    * **Predictive Modeling:** Develop predictive models to forecast future demand and revenue for specific properties and neighborhoods.
+    * **Dynamic Pricing:** Implement dynamic pricing strategies that adjust prices based on real-time demand and market conditions.
+    * **Guest Segmentation:** Analyze guest demographics and preferences to tailor marketing efforts and improve guest experience.
