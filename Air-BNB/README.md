@@ -1,5 +1,6 @@
 - [ ] **Sprint 1: Spreadsheet Data Analysis for TripleTen.**
-![Alt Text](.images/Project one business report screenshot.png)
+- [ ] ![Screenshot](.images/Project one business report screenshot.png)
+
 - [ ] **Description**
     
     This project analyzes Airbnb data to guide investment decisions in the Manhattan vacation rental market. The primary objectives are to identify the most attractive neighborhoods and property sizes for vacation rentals, estimate their revenue potential, and provide data-driven recommendations to the client.
