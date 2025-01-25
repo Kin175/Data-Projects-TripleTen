@@ -1,5 +1,5 @@
 - [ ] **Sprint 1: Spreadsheet Data Analysis for TripleTen.**
-- [ ] .images/Project one business report screenshot.png
+- [ ] ![image alt]( )
 
 - [ ] **Description**
     
