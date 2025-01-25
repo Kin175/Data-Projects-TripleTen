@@ -1,5 +1,5 @@
 - [ ] **Sprint 1: Spreadsheet Data Analysis for TripleTen.**
-- [ ] ![image alt]( )
+- [ ] ![image alt](https://github.com/Kin175/Data-Projects-TripleTen/blob/f9bc5d56b63d5b612aa65486092122a9c7098e2b/.images/Project%20one%20business%20report%20screenshot.png)
 
 - [ ] **Description**
     
