@@ -1,0 +1,50 @@
+**Project Requirements:**
+
+* Analyze Airbnb data for the Manhattan vacation rental market.
+* Identify the most attractive neighborhoods and property types for investment.
+* Estimate the revenue potential of top-performing listings.
+
+**Data Source:**
+
+* NYC Airbnb Data 
+
+**Methodology:**
+
+1. **Data Cleaning & Preparation:**
+    * **Neighborhood Data:**
+        * Clean the "neighborhood" column by removing inconsistent capitalization and trailing spaces.
+        * Create a new column "neighborhood_clean" to store the cleaned data.
+    * **Bedroom Data:**
+        * Clean the "bedrooms" column by handling empty cells (representing studio apartments).
+        * Create a new column "bedrooms_clean" to store the cleaned data.
+
+2. **Neighborhood Analysis:**
+    * **Identify Top 10 Neighborhoods:**
+        * Use "number_of_reviews_ltm" as a proxy for rental attractiveness.
+        * Create a pivot table to analyze review counts by neighborhood.
+        * Identify the top 10 neighborhoods with the highest review counts.
+    * **Visualize Results:**
+        * Create a bar chart to display the number of reviews for the top 10 neighborhoods.
+
+3. **Property Size Analysis:**
+    * **Determine Most Popular Property Sizes:**
+        * Create a pivot table to analyze the frequency of different property sizes (number of bedrooms).
+    * **Analyze Neighborhood Preferences:**
+        * Update the pivot table to analyze property size preferences within each of the top 10 neighborhoods.
+
+4. **Revenue Analysis:**
+    * **Identify Top-Performing Listings:**
+        * Create a new column "top_listing" in the listings data.
+        * Assign a value of 1 to listings that match the criteria (top 10 neighborhoods and their corresponding most popular property sizes).
+    * **Calculate Revenue:**
+        * In the calendar data, create a new column "revenue_earned" to calculate revenue earned each night.
+        * In the listings data, create a "revenue_earned" column using SUMIF() to calculate total revenue from the calendar data.
+    * **Rank Top Listings:**
+        * Create a pivot table to rank top listings by revenue using "top_listing" as a filter.
+        * Estimate annual revenue by multiplying 30-day revenue by 12.
+
+**Next Steps:**
+
+* Conduct further analysis on seasonality, competitive landscape, and guest demographics.
+* Develop predictive models to forecast future demand and revenue.
+* Implement dynamic pricing strategies to optimize revenue generation.
