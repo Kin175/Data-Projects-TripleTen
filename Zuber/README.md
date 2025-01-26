@@ -1,5 +1,6 @@
 ## Zuber Database Project - Business Intelligence Analyst
 
+- [ ] ![image alt]( )
 This repository documents the analysis of a ride-sharing company, Zuber's, database to understand passenger preferences and external factors impacting rides.
 
 **Table of Contents for README**
