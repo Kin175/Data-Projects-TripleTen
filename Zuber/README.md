@@ -10,8 +10,8 @@ This repository documents the analysis of a ride-sharing company, Zuber's, datab
 | :-----------: | ----------- |----------- |
 | 1 | (README.md) | This collection of data dictionaries provides detailed information about the Airbnb dataset used for the Manhattan vacation rental market analysis. |
 | 2 | (Requirements.txt) | This report presents the findings of an analysis on the Manhattan vacation rental market using Airbnb data. |
-| 3 | (Zuber Database Data.pdf) | This README.md documents a project analyzing Airbnb data for Manhattan vacation rentals Sprint 1: Spreadsheet Data Analysis for TripleTen. |
-| 4 | (Zuber Database Report.pdf) | This requirements document outlines the scope and objectives of an analysis on the Manhattan vacation rental market using Airbnb data. |
+| 3 | (Zuber Database Data.pdf) | **A collection of tables (neighborhoods, cabs, trips, weather_records) containing information on taxi rides, neighborhoods, and weather conditions in Chicago.** |
+| 4 | (Zuber Database Report.pdf) | **A collection of SQL queries and results visualizing taxi ride data analysis.** |
 
 **Table of Contents for README**
 
