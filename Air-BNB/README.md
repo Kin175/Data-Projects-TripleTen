@@ -8,15 +8,20 @@
 - [ ] **Process.**
 
     The analysis involved data cleaning, pivot table creation, and calculations to answer key questions:
-        * **Most Attractive Neighborhoods:** Cleaned neighborhood data, analyzed review counts in the last 12 months, and identified the top 10 most attractive neighborhoods. 
+
+          * **Most Attractive Neighborhoods:** Cleaned neighborhood data, analyzed review counts in the last 12 months, and identified the top 10 most attractive neighborhoods. 
             * **[Screenshot: Top 10 Neighborhoods Pivot Table]**
-        * **Most Popular Property Sizes:** Cleaned bedroom data, analyzed rental frequency across different property sizes, and determined the most popular size in each neighborhood. 
+
+          * **Most Popular Property Sizes:** Cleaned bedroom data, analyzed rental frequency across different property sizes, and determined the most popular size in each neighborhood. 
             * **[Screenshot: Bedrooms Pivot Table]**
-        * **Revenue Potential:** Identified top-performing listings based on neighborhood and property size, calculated daily and annual revenue, and ranked listings by their estimated annual income. 
+
+          * **Revenue Potential:** Identified top-performing listings based on neighborhood and property size, calculated daily and annual revenue, and ranked listings by their estimated annual income. 
             * **[Screenshot: Annual Revenue Pivot Table]**
-        * **Occupancy Rate:** Analyzed average occupancy rates across different neighborhoods and property types.
+
+          * **Occupancy Rate:** Analyzed average occupancy rates across different neighborhoods and property types.
             * **[Screenshot: Average Occupancy Rate Pivot Table]**
-        * **Demand Patterns:** Identified the most popular rental days of the week.
+
+          * **Demand Patterns:** Identified the most popular rental days of the week.
             * **[Screenshot: Most Popular Days Pivot Table Bar Chart]**
 
 - [ ] **Data**
