@@ -2,13 +2,15 @@
 
 This repository documents the analysis of a ride-sharing company, Zuber's, database to understand passenger preferences and external factors impacting rides.
 
-**Table of Contents**
+**Table of Contents for README**
 
-* [Description](#description)
-* [Data](#data)
-* [Assumptions](#assumptions)
-* [Process](#process)
-* [Findings](#findings)
+| Section Title | Description |
+| :-----------: | ----------- |
+| [Description] | Describes the final project’s purpose, software, format, and included visuals.. |
+| [Data] |  This section describes the source of the data used in this analysis, including specific files, tables, and relevant fields.. |
+| [Assumptions] | This section outlines assumptions provided by TripleTen, as well as those made during data analysis and task execution. |
+| [Process] |  This section outlines the analytical approach and the specific tools and technologies employed throughout the project. |
+| [Findings] | This section presents the key insights derived from the data analysis. |
 
 ## Description
 
