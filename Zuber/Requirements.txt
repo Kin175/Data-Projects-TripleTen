@@ -1,0 +1,16 @@
+# Zuber Ride-Sharing Project
+
+**Project Requirements:**
+
+**1. Exploratory Data Analysis:**
+
+* **1.1** Determine the top ride-hailing companies by number of rides on November 15-16, 2017.
+* **1.2** Find the number of rides for companies with "Yellow" or "Blue" in their names from November 1-7, 2017.
+* **1.3** Identify the top ride-hailing companies in November 2017 (Flash Cab, Taxi Affiliation Services, and "Other").
+
+**2. Weather Impact Analysis:**
+
+* **2.1** Identify the neighborhood IDs for the Loop and O'Hare International Airport.
+* **2.2** Classify weather conditions as "Bad" (rain/storm) or "Good" for each hour in the weather_records table.
+* **2.3** Analyze the duration of rides from the Loop to O'Hare on Saturdays under different weather conditions ("Bad" vs. "Good").
+
