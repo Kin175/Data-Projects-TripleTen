@@ -27,26 +27,40 @@
 - [ ] **Data**
 
     This data was scraped from the Airbnb database.
+    
     NYC Airbnb Data:
-        * data_dictionary
-        * listings
-        * calendar
+
+      * data_dictionary
+
+      * listings
+
+      * calendar
         
 - [ ] **Assumptions**
 
-    *I placed filters for minimum requirement of 7 days for listings and calendar data sheets to focus more on vacation rentals.
+    *I placed filters for the minimum requirement of 7 days for listings and calendar data sheets to focus more on vacation rentals.
+    
     *Filtered out rentals in the listings and calendar data to exclude those with no reviews in the past 12 months because they are most likely inactive.
+    
     *Finding the neighborhoods with the top 10 most reviews will give us the top 10 neighborhoods to analyze.
+    
     *The number of bedrooms tells us the property size.
+    
     *Filtering out blanks in the bedroom column gets rid of properties with no bedrooms.
+    
     *Calculating occupancy will show which neighborhoods have the most customer traffic.
+    
     *Calculating which weekdays have the highest usage rate will help for a more targeted marketing scheme.
+    
     *Filtering for super hosts, properties being actively rented over the past year, filtering out super luxury and extremely low-priced rentals will give us more of what an investor would gladly invest in.
     
 - [ ] **Findings**
 
     *I have discovered the most popular days for Airbnb's in NYC, top 10 neighborhoods, the most popular rental sizes, and why Lower East Side is the most fortuitous investment opportunity.
-    *The most popular size rentals for the top 10 Nyc Neighborhoods are one-bedroom.
+    
+    *The most popular size rentals for the top 10 NYC neighborhoods are one-bedroom.
+    
     *The popular days of the week for rentals are Fridays & Saturdays.
+    
     *The most ideal neighborhood to invest in is Lower East Side.
 
