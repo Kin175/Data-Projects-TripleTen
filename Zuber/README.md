@@ -1,6 +1,7 @@
 ## Zuber Database Project - Business Intelligence Analyst
 
-- [ ] ![image alt]( )
+- [ ] ![image alt](https://github.com/Kin175/Data-Projects-TripleTen/blob/1b3413d71f85da790dc93987f629652d4983aaa7/.images/Project%20Two%20The%20Zuber%20Database%20Table%20Scheme%20Screenshot.png)
+
 This repository documents the analysis of a ride-sharing company, Zuber's, database to understand passenger preferences and external factors impacting rides.
 
 **Table of Contents for README**
