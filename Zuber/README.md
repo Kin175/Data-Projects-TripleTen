@@ -6,8 +6,8 @@ This repository documents the analysis of a ride-sharing company, Zuber's, datab
 
 * [Description](#description)
 * [Data](#data)
-* [Tasks](#tasks)
-* [Process](#Process)
+* [Assumptions](#assumptions)
+* [Process](#process)
 * [Findings](#findings)
 
 ## Description
@@ -27,14 +27,13 @@ The analysis utilizes the following tables from the Zuber database:
 * **trips:** Provides details on rides (trip_id, cab_id, start_ts, end_ts, duration_seconds, distance_miles, pickup_location_id, dropoff_location_id).
 * **weather_records:** Includes weather data for each hour (record_id, ts, temperature, description).
 
-## Tasks
+## Assumptions
 
-The project involved the following tasks:
-
-1. Exploratory data analysis on taxi rides (number of rides by company, popular neighborhoods).
-2. Identifying neighborhoods based on name (O'Hare, Loop).
-3. Classifying weather conditions (good/bad) based on descriptions containing rain or storm.
-4. Analyzing rides from Loop to O'Hare on Saturdays, considering weather and ride duration.
+* **Assumption 1:** Analyzing ride frequency by taxi company will reveal the most popular and successful companies in the market.
+* **Assumption 2:** Identifying the most frequent pickup and drop-off locations will provide valuable insights into passenger travel patterns and demand.
+* **Assumption 3:** Classifying weather conditions as "good" or "bad" based on the presence of "rain" or "storm" in the description will effectively capture the impact of adverse weather on ride demand.
+* **Assumption 4:** Analyzing rides from Loop to O'Hare on Saturdays will provide a representative sample of rides influenced by weekend travel patterns and potential weather impacts.
+* **Assumption 5:** The available data accurately reflects the overall ride-hailing landscape in the city and is representative of typical travel patterns.
 
 ## Process
 
@@ -56,10 +55,3 @@ The analysis revealed insights into ride-taking patterns and weather influence:
 
 These findings can be used to develop targeted marketing strategies, optimize service availability in high-demand areas, and potentially adjust pricing based on weather conditions.
 
-## Further Exploration
-
-* Analyze the impact of other weather conditions (e.g., snow) on ride frequency.
-* Explore the relationship between ride duration and distance.
-* Investigate user demographics and preferences for pickup/drop-off locations.
-
-This README.md provides a high-level overview of the Zuber Database Project. The code for each SQL query can be found in separate files within the repository.
