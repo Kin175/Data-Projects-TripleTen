@@ -1,6 +1,26 @@
 - [ ] **Sprint 1: Spreadsheet Data Analysis for TripleTen.**
 - [ ] ![image alt](https://github.com/Kin175/Data-Projects-TripleTen/blob/f9bc5d56b63d5b612aa65486092122a9c7098e2b/.images/Project%20one%20business%20report%20screenshot.png)
 
+**Table of Contents for Repository Artifacts**
+
+| File Number | Title | Description |
+| :-----------: | ----------- |----------- |
+| 1 | (https://github.com/Kin175/Data-Projects-TripleTen/blob/main/Air-BNB/NYC%20Airbnb%20Data.pdf) | This collection of data dictionaries provides detailed information about the Airbnb dataset used for the Manhattan vacation rental market analysis. |
+| 2 | (https://github.com/Kin175/Data-Projects-TripleTen/blob/main/Air-BNB/NYC%20Airbnb%20Project%20One%20Report.pdf) | This report presents the findings of an analysis on the Manhattan vacation rental market using Airbnb data. |
+| 3 | (https://github.com/Kin175/Data-Projects-TripleTen/blob/main/Air-BNB/README.md) | This README.md documents a project analyzing Airbnb data for Manhattan vacation rentals Sprint 1: Spreadsheet Data Analysis for TripleTen. |
+| 4 | (https://github.com/Kin175/Data-Projects-TripleTen/blob/main/Air-BNB/Requirements.txt) | This requirements document outlines the scope and objectives of an analysis on the Manhattan vacation rental market using Airbnb data. |
+
+
+**Table of Contents for README**
+
+| Section Title | Description |
+| :-----------: | ----------- |
+| [Description] | Describes the final project’s purpose, software, format, and included visuals.. |
+| [Data] |  This section describes the source of the data used in this analysis, including specific files, tables, and relevant fields.. |
+| [Assumptions] | This section outlines assumptions provided by TripleTen, as well as those made during data analysis and task execution. |
+| [Findings] | This section presents the key insights derived from the data analysis. |
+
+
 - [ ] **Description**
     
     This project analyzes Airbnb data to guide investment decisions in the Manhattan vacation rental market. The primary objectives are to identify the most attractive neighborhoods and property sizes for vacation rentals, estimate their revenue potential, and provide data-driven recommendations to the client.
