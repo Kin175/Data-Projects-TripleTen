@@ -1,0 +1,57 @@
+**Project Requirements:**
+
+**1. Conversion Funnel Analysis:**
+
+* **Objective:** Determine the effectiveness of the website in converting product page views into purchases.
+* **Steps:**
+    * Create a new sheet: `conversion_funnel`
+    * Build a pivot table to count unique users at each stage of the funnel:
+        * Stage 1: Product Page Views
+        * Stage 2: Cart Adds
+        * Stage 3: Purchases
+    * Calculate:
+        * Total conversion rates for each stage
+        * Conversion rates between each stage 
+
+**2. Cohort Analysis:**
+
+* **Objective:** Analyze user behavior based on their initial purchase month.
+* **Steps:**
+    * **Data Preparation:**
+        * Create a new sheet: `purchase_activity` 
+        * Filter `raw_user_activity` to include only "purchase" events.
+        * Create a new sheet: `first_purchase`
+        * Use a pivot table to determine the `first_purchase_date` for each user.
+        * Add a `first_purchase_date` column to `purchase_activity` using `VLOOKUP`.
+        * Create new columns in `purchase_activity`:
+            * `event_month` (YYYY-MM)
+            * `first_purchase_month` (YYYY-MM)
+            * `cohort_age` (number of months since first purchase)
+    * **Cohort Creation:**
+        * Create a new sheet: `cohort_analysis`
+        * Build a pivot table to group users by `first_purchase_month` and count unique users for each `cohort_age`.
+
+**3. Retention Rate Calculation:**
+
+* **Objective:** Determine user retention rates for each cohort over time.
+* **Steps:**
+    * Create a new sheet: `retention_rates`
+    * Create a table with cohorts as rows and cohort ages as columns.
+    * Calculate retention rates for each cohort at each age using data from `cohort_analysis`.
+
+**4. Spreadsheet Organization & Documentation:**
+
+* **Executive Summary:** 
+    * Summarize key findings from `conversion_funnel` and `retention_rates` sheets.
+    * Document data assumptions and limitations.
+* **Table of Contents:** 
+    * Create a table listing all sheets with brief descriptions.
+* **Formatting:**
+    * Apply formatting for readability (e.g., number formats, borders, bold headers, frozen panes).
+* **Sheet Ordering:**
+    * Organize sheets: `Table of Contents`, `Executive Summary`, analysis sheets (`conversion_funnel`, `retention_rates`), calculation sheets, `raw_user_activity`.
+
+**Project Submission:**
+
+* Share the Google Spreadsheet with view-only permissions to allow reviewers to access the analysis.
+
