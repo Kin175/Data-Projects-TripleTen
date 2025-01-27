@@ -5,10 +5,10 @@
 
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | (https://github.com/Kin175/Data-Projects-TripleTen/blob/main/Air-BNB/NYC%20Airbnb%20Data.pdf) | This collection of data dictionaries provides detailed information about the Airbnb dataset used for the Manhattan vacation rental market analysis. |
-| 2 | (https://github.com/Kin175/Data-Projects-TripleTen/blob/main/Air-BNB/NYC%20Airbnb%20Project%20One%20Report.pdf) | This report presents the findings of an analysis on the Manhattan vacation rental market using Airbnb data. |
-| 3 | (https://github.com/Kin175/Data-Projects-TripleTen/blob/main/Air-BNB/README.md) | This README.md documents a project analyzing Airbnb data for Manhattan vacation rentals Sprint 1: Spreadsheet Data Analysis for TripleTen. |
-| 4 | (https://github.com/Kin175/Data-Projects-TripleTen/blob/main/Air-BNB/Requirements.txt) | This requirements document outlines the scope and objectives of an analysis on the Manhattan vacation rental market using Airbnb data. |
+| 1 | [NYC Airbnb Data.pdf](https://github.com/Kin175/Data-Projects-TripleTen/blob/main/Air-BNB/NYC%20Airbnb%20Data.pdf) | This collection of data dictionaries provides detailed information about the Airbnb dataset used for the Manhattan vacation rental market analysis. |
+| 2 | [NYC Airbnb Project One Report.pdf](https://github.com/Kin175/Data-Projects-TripleTen/blob/main/Air-BNB/NYC%20Airbnb%20Project%20One%20Report.pdf) | This report presents the findings of an analysis on the Manhattan vacation rental market using Airbnb data. |
+| 3 | [README.md](https://github.com/Kin175/Data-Projects-TripleTen/blob/main/Air-BNB/README.md) | This README.md documents a project analyzing Airbnb data for Manhattan vacation rentals Sprint 1: Spreadsheet Data Analysis for TripleTen. |
+| 4 | [Requirements](https://github.com/Kin175/Data-Projects-TripleTen/blob/main/Air-BNB/Requirements.txt) | This requirements document outlines the scope and objectives of an analysis on the Manhattan vacation rental market using Airbnb data. |
 
 
 **Table of Contents for README**
