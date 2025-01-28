@@ -1,5 +1,6 @@
 ## Project Three: Business Analytics Report
 
+![image alt](https://github.com/Kin175/Data-Projects-TripleTen/blob/33d7f53c99d610570024b6d89c3157c33e0e8807/.images/Project%20Three%20Executive%20Summary%20screenshot.png)
 
 **Table of Contents for Repository Artifacts**
 
