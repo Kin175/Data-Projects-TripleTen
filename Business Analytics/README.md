@@ -1,45 +1,58 @@
-## Zuber Database Project: Business Intelligence Analysis
+## Project Three: Business Analytics Report
 
-This repository documents the analysis of a ride-sharing company, Zuber's, database to understand user preferences and external factors impacting rides (focusing on Loop-to-O'Hare trips and weather).
+This repository documents the analysis of e-commerce user activity logs to understand user behavior and identify key performance indicators, including conversion funnels and customer cohort analysis.
 
 **Table of Contents**
 
-* [Data](## Data)
-* [Process](## Process)
-* [Findings](## Findings)
-* [Assumptions](## Assumptions)
-* [Zuber Database Description](## Zuber Database Description) (Optional)
+* [Executive Summary](#executive-summary)
+* [Data](##data)
+* [Methodology](#methodology)
+* [Findings](#findings)
+* [Conclusions](#conclusions)
+* [Change Log/Assumptions](#change-logassumptions) 
+* [Raw User Activity (Cleaned)](#raw-user-activity-cleaned)
+* [Purchase Activity](#purchase-activity)
+* [First Purchase](#first-purchase)
+* [Cohort Analysis](#cohort-analysis)
+* [Retention Rates](#retention-rates)
+* [Conversion Funnel](#conversion-funnel) 
 
 **Data**
 
-* Source: Zuber Database
-* Tables:
-    * neighborhoods: city neighborhoods (name, neighborhood_id)
-    * cabs: taxi data (cab_id, vehicle_id, company_name)
-    * trips: ride details (trip_id, cab_id, start_ts, end_ts, duration_seconds, distance_miles, pickup_location_id, dropoff_location_id)
-    * weather_records: weather data (record_id, ts, temperature, description)
+* **Source:** "raw_user_activity" sheet in the provided Google Spreadsheet.
+* **Columns:**
+    * user_id: Unique customer IDs
+    * event_type: User activity (e.g., page view, cart, purchase)
+    * category_code: Category of the product being viewed or purchased
+    * brand: Company that makes the product
+    * price: Price of the product, in USD
+    * event_date: Date of user activity (YYYY-MM-DD)
 
-**Process**
+**Methodology**
 
-SQL queries were used to analyze the Zuber database, focusing on:
-
-* Ride frequency by taxi company
-* Pickup/drop-off locations
-* Impact of weather (rain/storm) on rides, particularly Loop-to-O'Hare rides on Saturdays
+* **Conversion Funnel Analysis:** 
+    * Created a 3-stage funnel (page view, cart, purchase) using pivot tables.
+    * Calculated total conversion rates and conversion rates between each stage.
+* **Cohort Analysis:**
+    * Filtered data to focus solely on purchase events.
+    * Calculated first purchase dates for each user.
+    * Grouped users into cohorts based on their first purchase month.
+    * Calculated cohort retention rates over time.
 
 **Findings**
 
-* User preferences for pickup and drop-off locations can be identified.
-* Weather can influence ride frequency, especially for specific locations and weather conditions.
+* [Insert key findings from the analysis here, e.g., conversion rates, cohort retention trends, etc.]
 
-**Assumptions**
+**Conclusions**
 
-* Analyzing ride frequency by company reveals the most popular ones.
-* Frequent pickup/drop-off locations provide insights into travel patterns.
-* Classifying weather as "good" or "bad" captures the impact of weather on rides.
-* Loop-to-O'Hare rides on Saturdays represent weekend travel patterns and weather effects.
-* The data reflects the overall ride-hailing landscape in the city.
+[Summarize key insights and potential implications of the analysis. 
+For example: 
+* "The analysis revealed a significant drop-off rate between product page views and cart additions, suggesting a need for improvements in product descriptions or user experience."
+* "Cohort analysis identified a high initial retention rate, but a decline in retention over subsequent months, indicating a potential need for customer engagement strategies to improve long-term customer loyalty."]
 
-**Optional: Zuber Database Description**
+**Change Log/Assumptions**
 
-Provide a detailed description of the Zuber database schema (tables, fields, relationships).
+* [Document any changes made to the analysis or the data.] 
+* [List any assumptions made during the analysis.]
+
+**Note:** This README.md provides a high-level overview of the project. Detailed analysis and findings are documented within the associated Google Spreadsheet.
