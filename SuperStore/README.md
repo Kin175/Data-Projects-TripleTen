@@ -43,8 +43,6 @@ Raw Data can be found <a href='URL HERE'><u>here</u>.</a>
 * **DATA ANALYSIS AND VISUALIZATION:** Various chart types were used to visualize the data, including bar charts, scatter plots, and maps. Interactive filters and dashboards were created to allow for dynamic exploration of the data.
 * **INSIGHT GENERATION AND STORYTELLING:** Key findings were identified and presented in a clear and concise manner through data visualizations and accompanying narratives.
 
-**Fill in the following sections with details specific to your project**
-
 #### Data
 
 * **DESCRIPTION:** The Superstore dataset includes information on sales orders, products, customers, and returns.
@@ -57,9 +55,44 @@ Raw Data can be found <a href='URL HERE'><u>here</u>.</a>
 
 #### Findings
 
-* List your key findings from the data analysis.
+* **Profit Centers and Loss-Makers:**
+    * **Profit Centers:** 
+        * West Region: $162,494.22 total profit
+        * California: $116,475.32 total profit
+    * **Loss-Makers:** 
+        * Central Region: Highest total profit loss
+        * Texas: $-45,683.17 total profit loss
+* **Products to Discontinue:**
+    * Any product with negative profit should be discontinued. 
+* **Product Subcategories:**
+    * **Focus On:** Copiers, Phones, Accessories
+    * **Discontinue:** Tables, Bookcases, Supplies
+* **Advertising Opportunities:**
+    * **Top 3 Combinations:**
+        * Indiana & October 
+        * Vermont & November
+        * Washington & March
+* **Product Return Rates:**
+    * Identified products and customers with the highest return rates. 
+* **State Profitability:**
+    * States with negative profit should be improved or discontinued.
+    * States with positive profit should be continued with more focus.
 
 #### Recommendations/Results
 
-* List your recommendations based on your findings.
-░
+* **Product Strategy:**
+    * **Focus on:** Office Supplies - Binders, Technology - Copiers
+    * **Discontinue:** Furniture - Tables, Office Supplies - Paper
+* **Advertising Strategy:**
+    * Implement targeted advertising campaigns in California, New York, and Texas during the month of December. 
+    * Consider a return on ad spend (ROAS) target of 20% for these campaigns.
+* **Return Rate Reduction:**
+    * Investigate the root causes of high return rates for Furniture - Tables and Office Supplies - Binders. 
+    * Implement measures to improve product quality and customer satisfaction.
+
+#### Notes:
+
+* This analysis provides a high-level overview of the Superstore's sales performance. 
+* Further investigation may be required to gain deeper insights into specific areas of concern.
+
+This README.md provides a summary of the Superstore Data Analysis project. For a more in-depth analysis and interactive visualizations, please refer to the Tableau Public dashboard linked above.
