@@ -28,8 +28,6 @@ Raw Data can be found <a href='URL HERE'><u>here</u>.</a>
 | Data | Describes the data source, including files, tables, and fields. |
 | Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
 | Findings | Insights learned from the data analysis. |
-| Recommendations | Recommended direction for the stakeholders based on final analysis. |
-| Notes | List any special requests from the reviews or stakeholders unique to this project. |
 
 #### Description:
 
@@ -91,21 +89,9 @@ Then: We can estimate a budget for advertising campaigns based on the Superstore
     * States with negative profit should be improved or discontinued.
     * States with positive profit should be continued with more focus.
 
-#### Recommendations/Results
-
-* **Product Strategy:**
-    * **Focus on:** Office Supplies - Binders, Technology - Copiers
-    * **Discontinue:** Furniture - Tables, Office Supplies - Paper
-* **Advertising Strategy:**
-    * Implement targeted advertising campaigns in California, New York, and Texas during the month of December. 
-    * Consider a return on ad spend (ROAS) target of 20% for these campaigns.
-* **Return Rate Reduction:**
-    * Investigate the root causes of high return rates for Furniture - Tables and Office Supplies - Binders. 
-    * Implement measures to improve product quality and customer satisfaction.
 
 #### Notes:
 
 * This analysis provides a high-level overview of the Superstore's sales performance. 
-* Further investigation may be required to gain deeper insights into specific areas of concern.
 
 This README.md provides a summary of the Superstore Data Analysis project. For a more in-depth analysis and interactive visualizations, please refer to the Tableau Public dashboard linked above.
