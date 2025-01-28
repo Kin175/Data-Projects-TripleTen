@@ -16,7 +16,7 @@
 | :-----------: | ----------- |
 | [Description] | Describes the project’s purpose, software, format, and included visuals.. |
 | [Data] |  This section describes the source of the data used in this analysis, including specific files, tables, and relevant fields.. |
-| [Change Log/Assumptions] | This section outlines assumptions provided by TripleTen, as well as those made during data analysis and task execution. |
+| [Assumptions] | This section outlines assumptions provided by TripleTen, as well as those made during data analysis and task execution. |
 | [Process] |  This section outlines the analytical approach and the specific tools and technologies employed throughout the project. |
 | [Findings] | This section presents the key insights derived from the data analysis. |
 
@@ -35,9 +35,8 @@
     * price: Price of the product, in USD
     * event_date: Date of user activity (YYYY-MM-DD)
 
-**Change Log/Assumptions**
+**Assumptions**
 
-* [List of any changes made to the analysis or the data.] 
 * [List of assumptions made during the analysis found in report.]
 
 **Process**
