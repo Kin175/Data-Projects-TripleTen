@@ -51,7 +51,20 @@ Raw Data can be found <a href='URL HERE'><u>here</u>.</a>
 
 #### Assumptions
 
-* List all assumptions made during your analysis.  These should be phrased as "if we do this, then that should be the result" statements.
+* Left Join of Returns Table:
+
+If: We assume the Returns table is left-joined onto the Orders table correctly,
+Then: We will be able to identify both "Yes" and "null" values in the "Returned" column, which is crucial for accurately calculating return rates.
+
+* Calculated Return Field:
+
+If: We assume the calculated field for "Returned" is created correctly, assigning "0" to null values and "1" to "Yes" values,
+Then: We can use this field to accurately calculate return rates for products and customers, leading to the identification of products and customers with the highest return rates.
+
+* Advertising Cost Estimation:
+
+If: We assume a willingness to spend 1/5 of profits on advertising for this exercise,
+Then: We can estimate a budget for advertising campaigns based on the Superstore's average profit per unit sold, which can then be used to prioritize advertising efforts in the top 3 states/month combinations.
 
 #### Findings
 
