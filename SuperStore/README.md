@@ -39,7 +39,7 @@ Raw Data can be found <a href='URL HERE'><u>here</u>.</a>
 
 #### Process:
 
-* **DATA CLEANING AND PREPARATION:** The Superstore dataset was imported into Tableau Public. Data cleaning and preparation steps may have included handling missing values, formatting data types, and creating calculated fields (e.g., return rate).
+* **DATA CLEANING AND PREPARATION:** The Superstore dataset was imported into Tableau Public. Data cleaning and preparation steps include handling missing values, formatting data types, and creating calculated fields (e.g., return rate).
 * **DATA ANALYSIS AND VISUALIZATION:** Various chart types were used to visualize the data, including bar charts, scatter plots, and maps. Interactive filters and dashboards were created to allow for dynamic exploration of the data.
 * **INSIGHT GENERATION AND STORYTELLING:** Key findings were identified and presented in a clear and concise manner through data visualizations and accompanying narratives.
 
