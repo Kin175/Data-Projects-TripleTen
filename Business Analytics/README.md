@@ -16,7 +16,7 @@
 | :-----------: | ----------- |
 | [Description] | Describes the project’s purpose, software, format, and included visuals.. |
 | [Data] |  This section describes the source of the data used in this analysis, including specific files, tables, and relevant fields.. |
-| [Assumptions] | This section outlines assumptions provided by TripleTen, as well as those made during data analysis and task execution. |
+| [Change Log/Assumptions] | This section outlines assumptions provided by TripleTen, as well as those made during data analysis and task execution. |
 | [Process] |  This section outlines the analytical approach and the specific tools and technologies employed throughout the project. |
 | [Findings] | This section presents the key insights derived from the data analysis. |
 
