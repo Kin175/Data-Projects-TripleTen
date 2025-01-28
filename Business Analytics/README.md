@@ -2,20 +2,17 @@
 
 This repository documents the analysis of e-commerce user activity logs to understand user behavior and identify key performance indicators, including conversion funnels and customer cohort analysis.
 
-**Table of Contents**
 
-* [Executive Summary](#executive-summary)
-* [Data](##data)
-* [Methodology](#methodology)
-* [Findings](#findings)
-* [Conclusions](#conclusions)
-* [Change Log/Assumptions](#change-logassumptions) 
-* [Raw User Activity (Cleaned)](#raw-user-activity-cleaned)
-* [Purchase Activity](#purchase-activity)
-* [First Purchase](#first-purchase)
-* [Cohort Analysis](#cohort-analysis)
-* [Retention Rates](#retention-rates)
-* [Conversion Funnel](#conversion-funnel) 
+
+**Table of Contents for README**
+
+| Section Title | Description |
+| :-----------: | ----------- |
+| [Description] | Describes the final project’s purpose, software, format, and included visuals.. |
+| [Data] |  This section describes the source of the data used in this analysis, including specific files, tables, and relevant fields.. |
+| [Assumptions] | This section outlines assumptions provided by TripleTen, as well as those made during data analysis and task execution. |
+| [Process] |  This section outlines the analytical approach and the specific tools and technologies employed throughout the project. |
+| [Findings] | This section presents the key insights derived from the data analysis. |
 
 **Data**
 
