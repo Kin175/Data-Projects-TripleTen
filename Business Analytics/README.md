@@ -7,7 +7,7 @@
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | ( ) | **The collection data for this Business Analytics Project.** |
-| 2 | (Project Three_Business Analytics Report.pdf) | **The Final Report for this project.** |
+| 2 | (GitHub Project Three_ Business Analytics Report.pdf) | **The Final Report for this project.** |
 | 3 | (README.md) | **The current page serving as an overall summary of this repository.** |
 | 4 | (Requirements.txt) | **This report presents the requirements for this project for TripleTen.** |
 
