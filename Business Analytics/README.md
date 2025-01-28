@@ -8,7 +8,7 @@
 | :-----------: | ----------- |----------- |
 | 1 | [Project Three_ Business Analytics Data.pdf]( ) | **The collection data for this Business Analytics Project.** |
 | 2 | [Project Three_ Business Analytics Report.pdf]( ) | **The Final Report for this project.** |
-| 3 | [README.md]( ) | **The current page serving as an overall summary of this repository.** |
+| 3 | [README.md](https://github.com/Kin175/Data-Projects-TripleTen/blob/main/Business%20Analytics/README.md) | **The current page serving as an overall summary of this repository.** |
 | 4 | [Requirements.txt](https://github.com/Kin175/Data-Projects-TripleTen/blob/main/Business%20Analytics/Requirements.txt) | **This report presents the requirements for this project for TripleTen.** |
 
 
