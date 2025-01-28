@@ -4,7 +4,7 @@
 
 This project analyzes the Superstore sales data to identify key areas for profit improvement, assess the potential impact of advertising campaigns, and investigate the root causes of product returns.
 
-[<img src="URL OF IMAGE" alt="First Sheet of Project**">](URL OF DESTINATION)
+![image alt](https://github.com/Kin175/Data-Projects-TripleTen/blob/303cd962efd0789049aaa0a3733641fc567a662c/.images/GitHub%20Project%20Four%20Dashboard%20Pt1.png)
 
 Video Overview can be found <a href='URL HERE'><u>here</u>.</a>
 Project can be found <a href='URL HERE'><u>here</u>.</a>
