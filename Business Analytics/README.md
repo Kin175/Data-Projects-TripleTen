@@ -6,10 +6,11 @@
 
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | (README.md) | **The current page serving as an overall summary of this repository.** |
-| 2 | (Requirements.txt) | **This report presents the requirements for this project for TripleTen.** |
-| 3 | (Zuber Database Data.pdf) | **A collection of tables (neighborhoods, cabs, trips, weather_records) containing information on taxi rides, neighborhoods, and weather conditions in Chicago.** |
-| 4 | (Zuber Database Report.pdf) | **A collection of SQL queries and results visualizing taxi ride data analysis.** |
+| 1 | ( ) | **The collection data for this Business Analytics Project.** |
+| 2 | (Project Three_Business Analytics Report.pdf) | **The Final Report for this project.** |
+| 3 | (README.md) | **The current page serving as an overall summary of this repository.** |
+| 4 | (Requirements.txt) | **This report presents the requirements for this project for TripleTen.** |
+
 
 **Table of Contents for README**
 
