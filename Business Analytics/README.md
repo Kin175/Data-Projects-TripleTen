@@ -24,7 +24,7 @@
 
 **Description**
 
-* This repository documents the analysis of e-commerce user activity logs to understand user behavior and identify key performance indicators, including conversion funnels and customer cohort analysis.
+* This project documents the analysis of e-commerce user activity logs to understand user behavior and identify key performance indicators, including conversion funnels and customer cohort analysis.
 
 **Data**
 
