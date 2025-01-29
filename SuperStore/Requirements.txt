@@ -1,0 +1,22 @@
+# Requirements
+
+* **Data Source:** Superstore.xls
+
+* **Task 1: Profit & Loss**
+    * Identify the biggest profit centers and loss-makers for the superstore (by region, subcategory, etc.) using visualizations.
+    * Identify products to discontinue based on visualization of profitability.
+    * Identify product subcategories to focus on and discontinue based on visualizations.
+
+* **Task 2: Advertising**
+    * Identify the 3 best combinations of state and month for advertising using visualizations.
+    * Estimate a budget for advertising campaigns based on average profit per unit sold and a 1/5 return on ad spend ratio.
+
+* **Task 3: Returned Items**
+    * Create a calculated field in the Orders table to indicate product returns (0 for null, 1 for "Yes").
+    * Identify products with the highest return rates using visualizations.
+    * Identify customers with the highest return rates using visualizations.
+    * Create a visualization to analyze the relationship between average profit and average return rate on a chosen dimension (state, shipping mode, etc.) and justify business decisions based on this analysis.
+
+* **Deliverables:**
+    * Tableau workbook with visualizations for all tasks.
+    * README.md file containing a link to the published Tableau workbook on Tableau Public.
