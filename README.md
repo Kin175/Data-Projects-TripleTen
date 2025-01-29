@@ -3,7 +3,7 @@ Portfolio of completed projects I worked on while attending the BI Analyst Progr
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [Air-BNB](https://github.com/Kin175/Data-Projects-TripleTen/tree/main/Air-BNB) | DESCRIPTION HERE. |
+| 1 | [Air-BNB](https://github.com/Kin175/Data-Projects-TripleTen/tree/main/Air-BNB) | This project analyzes Airbnb data to guide investment decisions in the Manhattan vacation rental market. The primary objectives are to identify the most attractive neighborhoods and property sizes for vacation rentals, estimate their revenue potential, and provide data-driven recommendations to the client. |
 | 2 | [Zuber](https://github.com/Kin175/Data-Projects-TripleTen/tree/main/Zuber) | DESCRIPTION HERE. |
 | 3 | [Business Analysis](https://github.com/Kin175/Data-Projects-TripleTen/tree/main/Business%20Analytics) | DESCRIPTION HERE. |
 | 4 | [SuperStore](https://github.com/Kin175/Data-Projects-TripleTen/tree/main/SuperStore) | DESCRIPTION HERE. ||
