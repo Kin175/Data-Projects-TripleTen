@@ -15,7 +15,7 @@ Raw Data can be found <a href='URL HERE'><u>here</u>.</a>
 | File Number | Title | Description |
 |---|---|---|
 | 1 | [FINISHED FILE NAME HERE](URL HERE) | DESCRIPTION HERE |
-| 2 | [RAW DATA FILE HERE](URL HERE) | DESCRIPTION HERE |
+| 2 | [Project 4_Superstore Data Set.pdf](https://github.com/Kin175/Data-Projects-TripleTen/blob/main/SuperStore/GitHub%20Project%204_%20Superstore%20Data%20Set.pdf) | DESCRIPTION HERE |
 | 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 4 | [Requirements.txt](URL HERE) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 
