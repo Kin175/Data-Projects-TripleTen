@@ -14,8 +14,8 @@ Raw Data can be found <a href='URL HERE'><u>here</u>.</a>
 
 | File Number | Title | Description |
 |---|---|---|
-| 1 | [Project 4_Data Visualization with Tableau.pdf](https://github.com/Kin175/Data-Projects-TripleTen/blob/main/SuperStore/GitHub%20Project%204_%20Data%20Visualization%20with%20Tableau.pdf) | DESCRIPTION HERE |
-| 2 | [Project 4_Superstore Data Set.pdf](https://github.com/Kin175/Data-Projects-TripleTen/blob/main/SuperStore/GitHub%20Project%204_%20Superstore%20Data%20Set.pdf) | DESCRIPTION HERE |
+| 1 | [Project 4_Data Visualization with Tableau.pdf](https://github.com/Kin175/Data-Projects-TripleTen/blob/main/SuperStore/GitHub%20Project%204_%20Data%20Visualization%20with%20Tableau.pdf) | The Project Four Report with visualizations using Tableau. |
+| 2 | [Project 4_Superstore Data Set.pdf](https://github.com/Kin175/Data-Projects-TripleTen/blob/main/SuperStore/GitHub%20Project%204_%20Superstore%20Data%20Set.pdf) | The Superstore Data Set for Project Four. |
 | 3 | [README.md](https://github.com/Kin175/Data-Projects-TripleTen/blob/main/SuperStore/README.md) | This current page with all relevant information about the project, just past the Table of contents. |
 | 4 | [Requirements.txt](https://github.com/Kin175/Data-Projects-TripleTen/blob/main/SuperStore/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 
