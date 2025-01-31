@@ -6,9 +6,8 @@ This project analyzes the Superstore sales data to identify key areas for profit
 
 ![image alt](https://github.com/Kin175/Data-Projects-TripleTen/blob/303cd962efd0789049aaa0a3733641fc567a662c/.images/GitHub%20Project%20Four%20Dashboard%20Pt1.png)
 
-Video Overview can be found <a href='URL HERE'><u>here</u>.</a>
-Project can be found <a href='URL HERE'><u>here</u>.</a>
-Raw Data can be found <a href='URL HERE'><u>here</u>.</a>
+Video Overview can be found <a href='https://www.loom.com/share/e3d1dc7d54334456968ad06724c79849?sid=93e34eb6-0029-4de5-b80b-31113d12b840'><u>here</u>.</a>
+
 
 ### Table of Contents for Repository Artifacts
 
