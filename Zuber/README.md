@@ -2,7 +2,7 @@
 
 - [ ] ![image alt](https://github.com/Kin175/Data-Projects-TripleTen/blob/1b3413d71f85da790dc93987f629652d4983aaa7/.images/Project%20Two%20The%20Zuber%20Database%20Table%20Scheme%20Screenshot.png)
 
-Video Overview can be found <a href='https://www.loom.com/share/ac541562399e47f49f503ed7e52410ba?sid=5460cb1e-f1e1-40c8-8f58-8d0b6ea73dd0’><u>here</u>.</a>
+Video Overview can be found <a href='https://www.loom.com/share/ac541562399e47f49f503ed7e52410ba?sid=50114d71-5f7f-4ff2-b2f4-26567daf2709'><u>here</u>.</a>
 
 This repository documents the analysis of a ride-sharing company, Zuber's, database to understand passenger preferences and external factors impacting rides.
 
