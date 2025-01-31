@@ -1,7 +1,7 @@
 - [ ] **Sprint 1: Spreadsheet Data Analysis for TripleTen.**
 - [ ] ![image alt](https://github.com/Kin175/Data-Projects-TripleTen/blob/f9bc5d56b63d5b612aa65486092122a9c7098e2b/.images/Project%20one%20business%20report%20screenshot.png)
 
-Video Overview can be found <a href='URL HERE’><u>here</u>.</a>
+Video Overview can be found <a href='https://www.loom.com/share/1bae07d225664614b9bec72df556db21?sid=cd53095d-6360-445e-81d6-395c58101374'><u>here</u>.</a>
 
 **Table of Contents for Repository Artifacts**
 
