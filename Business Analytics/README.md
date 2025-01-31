@@ -2,7 +2,7 @@
 
 ![image alt](https://github.com/Kin175/Data-Projects-TripleTen/blob/33d7f53c99d610570024b6d89c3157c33e0e8807/.images/Project%20Three%20Executive%20Summary%20screenshot.png)
 
-Video Overview can be found <a href='https://www.loom.com/share/1bae07d225664614b9bec72df556db21?sid=bc5ec0b2-4481-49b7-b873-c884e7bf5a13’><u>here</u>.</a>
+Video Overview can be found <a href='https://www.loom.com/share/e3d1dc7d54334456968ad06724c79849?sid=93e34eb6-0029-4de5-b80b-31113d12b840'><u>here</u>.</a>
 
 **Table of Contents for Repository Artifacts**
 
